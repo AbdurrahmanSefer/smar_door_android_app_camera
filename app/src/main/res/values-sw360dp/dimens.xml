@@ -1,0 +1,18 @@
+<resources>
+	<dimen name="text_size_small">14sp</dimen>
+	<dimen name="text_size_medium">18sp</dimen>
+	<dimen name="text_size_large">22sp</dimen>
+	<dimen name="fab_margin">16dp</dimen>
+	<dimen name="Button_margin_12">2dp</dimen>
+
+
+
+	<dimen name="main_cardview1_margin">8dp</dimen>
+	<dimen name="main_cardview1_pading">8dp</dimen>
+	<dimen name="main_cardview_Evelation">3dp</dimen>
+	<dimen name="main_cardview_Radios">21dp</dimen>
+	<dimen name="main_cardview_Radios_button">8dp</dimen>
+	<dimen name="main_button_drawable_pading">2dp</dimen>
+	<dimen name="user_photo_width">500px</dimen>
+	<dimen name="user_photo_hegiht">400px</dimen>
+</resources>

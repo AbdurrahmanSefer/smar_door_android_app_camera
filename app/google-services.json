@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045573037015",
+    "firebase_url": "https://ardunioprojesi.firebaseio.com",
+    "project_id": "ardunioprojesi",
+    "storage_bucket": "ardunioprojesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045573037015:android:80284d8bbacbb01e81f992",
+        "android_client_info": {
+          "package_name": "com.seferapp.animals_and_pepol_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045573037015-pojsa1pbrl593u5tqievuhs1nf0g6f14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCWbeEc3JbKYlpVDx8YHx0LLmyhN7QREk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045573037015-pojsa1pbrl593u5tqievuhs1nf0g6f14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
